@@ -2,7 +2,7 @@
 date: 2020-10-09 16:24:38 +0000
 draft: false
 title: Lost and found
-image: ''
+image: "/images/lost_and_found.jpg"
 tags: []
 
 ---
