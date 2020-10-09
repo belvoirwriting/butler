@@ -4,7 +4,7 @@ baseline: All the words
 description: Helping you find your own voice as a writer
 keywords: books, writing, novels, stories
 author: Vale of Belvoir Writing Group
-baseurl: "/"
+baseurl: "https://belvoirwriting.co.uk"
 canonicalurl: true
 theme: hyde
 date:
