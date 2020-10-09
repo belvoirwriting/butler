@@ -2,6 +2,7 @@
 title: About
 date: 2020-10-08 23:00:00 +0000
 menu: main
+draft: false
 
 ---
 If you enjoy writing, or feel like giving it a go, you will be welcomed with great encouragement by like-minded people There will also be inspiration in the form of occasional guest novelists, poets, song writers and journalists.
