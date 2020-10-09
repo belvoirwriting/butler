@@ -1,20 +1,33 @@
 ---
 title: About
-date: 2019-07-09
+date: 2020-10-08 23:00:00 +0000
 menu: main
+
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+If you enjoy writing, or feel like giving it a go, you will be welcomed with great encouragement by like-minded people There will also be inspiration in the form of occasional guest novelists, poets, song writers and journalists.
 
-## How to use?
+### Inspiring meetings
 
-### Managing content with [Forestry](https://forestry.io)
+We meet on the second Tuesday of every month at St. Mary's Church in Bottesford, but have been using Google Meet during the current restrictions. There's an optional theme or prompt for each meeting to help kick start your next piece.
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+### Variations on a theme
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
+We’ve had fun playing with the different themes, diverging from them in different ways or discarding them altogether to present works in progress. We've shared a variety of stories, poems, memoirs, novel chapters, blog posts and more.
 
-### Deploy with [Netlify](https://www.netlify.com)
+Our previous themes have included:
 
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
+* Tale with a twist ending
+* Beneath the surface
+* An unexpected detour
+* Your future self
+* A step too far
+* Spotlight on a character
+* The gift
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/the-butler&stack=cms)
+How you respond to the month’s theme is up to you, because, most of all, the group is about enjoying and encouraging writing.
+
+### Writers from across the Vale of Belvoir
+
+Most of our writers live in or near the Vale of Belvoir, but distance has been no object under lockdown. We’ve switched to video meetings and settled on Google Meet after considering Zoom, Skype and others for our calls, allowing everyone to join in, wherever they are.
+
+We look forward to meeting again in person as restrictions are lifted further and when it becomes safer to do so.
